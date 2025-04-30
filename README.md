@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Yusuf Hussien
-- 👀 I’m interested in Cybersecurity and Backend
-- 🌱 I’m currently learning Java and Database
+- 👀 I’m interested in SoftWare Engineering and Backend
+- 🌱 I’m currently Exploring
 - 💞️ I’m looking to be on FAANG
 - 📫 How to reach me
 -     linkedin.com/in/yusuf-7ussien
